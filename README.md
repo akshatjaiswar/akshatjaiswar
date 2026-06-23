@@ -1,6 +1,6 @@
 # Hi, I'm Akshat Jaiswar 👋
 
-Electronics Engineering Student | Embedded Systems | IoT | Computer Vision | VLSI Enthusiast
+Embedded Systems | IoT | Computer Vision | VLSI Design | Electronics Engineering Student
 
 ## About Me
 
